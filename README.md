@@ -1,0 +1,1 @@
+# Generovanie-prototypov
